@@ -104,7 +104,7 @@ In any case, it is useful to consider different ways to get to your participants
 
 ### Make compromises, if needed
 
-Especially if you are short on money and/or time, you may need to compromise and do research with participants that do not match your intended users exactly. However, if their motivations, activities and problems are similar, you are still likely to learn from these participants. But if they are similar only in demographics or profession rather than in their activities, your cannot expect meaningful results. 
+Especially if you are short on money and/or time, you may need to compromise and do research with participants that do not match your intended users exactly. However, if their motivations, activities and problems are similar, you are still likely to learn from these participants. But if they are similar only in demographics or profession rather than in their activities, you cannot expect meaningful results. 
 
 If you design an app for people to create bibliographies and you can only get some bachelor’s and master’s students, but no professors, your results will still reveal a lot about the processes of creating bibliographies. The student’s motivation is probably writing final term papers and the professors would like to write journal papers. This is a possible difference — as long as you aware of it, you are probably fine. But if you want to design a skateboard and the only participants you can get are elderly people who enjoy hiking, you are in trouble (if you find elderly people who enjoy skating, go for it).
 
