@@ -406,7 +406,7 @@ in a workflow of the user which seem outright superfluous.
 >
 > You may think that this is rather inefficient and be tempted to say “Why don't you paste the text in the mail and comment directly? Or write it live on Etherpad? This would be far quicker!”
 
-Remember that nobody does inefficient things by purpose. Assume that the
+Remember that nobody does inefficient things on purpose. Assume that the
 user has a reason. Try to find out what this reason may be.
 
 > Again, you could ask: “what's the reason for you to do it this way”—and remember to ask follow-up questions to further explore
