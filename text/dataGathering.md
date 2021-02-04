@@ -330,7 +330,7 @@ Contrast this with questions like
 >
 > Participant: “yes!”
 
-“Is…” -questions will be answered with “yes” or “no”—but we don't get to know *why* the participant approves or disapproves. In addition, “Is…”-Questions are a subtle form or influence ^[Also called a “leading question”] : In case of doubt, it is likely that are participant just agrees to the suggestion you give by asking “Is…”
+“Is…” -questions will be answered with “yes” or “no”—but we don't get to know *why* the participant approves or disapproves. In addition, “Is…”-Questions are a subtle form or influence ^[Also called a “leading question”] : In case of doubt, it is likely that the participant just agrees to the suggestion you give by asking “Is…”
 
 Sometimes, “Is”-Questions will come in a disguised
 form—as an addition, which is made to an open question:
